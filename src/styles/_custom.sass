@@ -2,14 +2,28 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 5%
+    right: 85%
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: giro1 4s infinite
+    top: 42%
+    right: 86%
+    transform-origin: 320%
+    z-index: 3
+  &-3
+    animation: rotacion 5s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 13.5%
+    right: 15%
+    width: 80%
 
+
+@keyframes giro1
+  0%
+    transform: rotate(0deg)
+
+  100%
+    transform: rotate(359deg)
 
 @keyframes float1
   0%
@@ -17,3 +31,42 @@
 
   100%
     transform: translateY(0px)
+
+@keyframes rotacion
+  0%
+    transform: rotate(0deg)
+
+  100%
+    transform: rotate(360deg)
+
+//Colores
+$gr1: #29398A, 50%, #CEC2F2
+$gr2: #d6d0e8, #fefefe
+
+@mixin gradient($direction, $list)
+  background: -webkit-linear-gradient($direction, $list) !important
+  background: -moz-linear-gradient($direction, $list) !important
+  background: -o-linear-gradient($direction, $list) !important
+  background: linear-gradient($direction, $list) !important
+
+.gr1, .gr1.bloque-texto-a.color-secundario
+  @include gradient(90deg,$gr1)
+.gr2
+  @include gradient(90deg,$gr2)
+  border-radius: 1rem
+    
+
+.cp
+  color: $color-primario !important
+.fcp
+  background-color: $color-primario !important
+.fcp75, .bloque-texto-g.color-primario
+  background-color: rgba(200,192,225,.75) !important
+.fcp35, .tarjeta.fcp35
+  background-color: rgba(116,83,216,.35) !important
+.fcacClarito, .bloque-texto-g__texto
+  background-color: #B3DECA
+.bloque-texto-g__texto.p-4.fblanco
+  background-color: white
+.fcab15, .acordion__activo.fcab15
+  background-color: rgba(253,169,41,.15) !important

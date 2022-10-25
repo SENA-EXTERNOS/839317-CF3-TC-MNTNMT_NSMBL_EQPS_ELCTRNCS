@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="150" viewBox="0 0 150 150">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d8ccec"/>
+      <stop offset="1" stop-color="#c3fff8"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_146993" data-name="Grupo 146993" transform="translate(-309 -7897)">
+    <g id="Elipse_5869" data-name="Elipse 5869" transform="translate(309 7897)" fill="#20cb7d" stroke="#20cb7d" stroke-width="2">
+      <circle cx="75" cy="75" r="75" stroke="none"/>
+      <circle cx="75" cy="75" r="74" fill="none"/>
+    </g>
+    <g id="Page-1" transform="translate(332 7920)">
+      <g id="_007---Search-Filters" data-name="007---Search-Filters">
+        <g id="Grupo_146600" data-name="Grupo 146600" transform="translate(75.175 19.271)">
+          <path id="Path" d="M45.91,21H63.587a3.5,3.5,0,1,1,0,7.008H45.91Z" transform="translate(-40.146 -3.481)" fill="#29398a" fill-rule="evenodd"/>
+          <path id="Path-2" data-name="Path" d="M42.62,11H66.06a3.5,3.5,0,0,1,0,7.008H46.019Z" transform="translate(-42.62 -11)" fill="#29398a" fill-rule="evenodd"/>
+          <path id="Path-3" data-name="Path" d="M46.019,31H66.06a3.5,3.5,0,0,1,0,7.008H42.62Z" transform="translate(-42.62 4.038)" fill="#29398a" fill-rule="evenodd"/>
+        </g>
+        <path id="Rectangle" d="M0,0H7.011V8.647H0Z" transform="translate(66.532 71.144) rotate(-45)" fill="#7453d8" fill-rule="evenodd"/>
+        <circle id="Oval" cx="40.293" cy="40.293" r="40.293" fill="#7453d8"/>
+        <path id="Path-4" data-name="Path" d="M70.605,37.286A33.324,33.324,0,1,1,52.771,7.82,33.324,33.324,0,0,1,70.605,37.286Z" transform="translate(2.974 3.007)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+        <path id="Path-5" data-name="Path" d="M56.557,23.271A33.263,33.263,0,0,1,7.819,52.737,33.263,33.263,0,0,1,52.738,7.819a33.018,33.018,0,0,1,3.819,15.452Z" transform="translate(3.008 3.008)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+        <path id="Path-6" data-name="Path" d="M1.752,0H12.263a1.752,1.752,0,0,1,1.752,1.752V28.03A7.008,7.008,0,1,1,0,28.03V1.752A1.752,1.752,0,0,1,1.752,0Z" transform="translate(70.32 79.737) rotate(-45)" fill="#fda929" fill-rule="evenodd"/>
+        <path id="Rectangle-2" data-name="Rectangle" d="M0,0H14.015V7.008H0Z" transform="translate(75.274 84.691) rotate(-45)" fill="#e8981e" fill-rule="evenodd"/>
+        <path id="Path-7" data-name="Path" d="M66.812,24.5a33.022,33.022,0,0,1-.193,3.5H12.5A3.5,3.5,0,1,1,12.5,21H66.62A33.024,33.024,0,0,1,66.812,24.5Z" transform="translate(6.939 15.79)" fill="#285680" fill-rule="evenodd"/>
+        <path id="Path-8" data-name="Path" d="M60.7,18.008H16.5A3.5,3.5,0,0,1,16.5,11h39.8A32.543,32.543,0,0,1,60.7,18.008Z" transform="translate(9.979 8.271)" fill="#285680" fill-rule="evenodd"/>
+        <path id="Path-9" data-name="Path" d="M60.7,31a32.543,32.543,0,0,1-4.4,7.008H16.5A3.5,3.5,0,0,1,16.5,31Z" transform="translate(9.979 23.308)" fill="#285680" fill-rule="evenodd"/>
+        <circle id="Oval-2" data-name="Oval" cx="7.008" cy="7.008" r="7.008" transform="translate(35.235 15.767)" fill="#20cb7d"/>
+        <circle id="Oval-3" data-name="Oval" cx="7.008" cy="7.008" r="7.008" transform="translate(51.091 33.286)" fill="#20cb7d"/>
+        <circle id="Oval-4" data-name="Oval" cx="7.008" cy="7.008" r="7.008" transform="translate(35.235 50.805)" fill="#20cb7d"/>
+      </g>
+    </g>
+  </g>
+</svg>

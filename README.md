@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.2.1**
+# **Diagnóstico de equipos electrónicos**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://sena-externos.github.io/839317-CF3-TC-MNTNMNT_ENSMBL_EQUPS_ELCTRNCS/](https://sena-externos.github.io/839317-CF3-TC-MNTNMNT_ENSMBL_EQUPS_ELCTRNCS/)
 
 #
 
