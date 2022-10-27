@@ -21,7 +21,7 @@
       h2 3.1 Pruebas
 
     .row.justify-content-center.align-items-center.mb-5.traslape1
-      .col-lg-6.tarjeta.bg-c-l
+      .col-lg-6.tarjeta.bg-c-l.fgris1
         .p-4
           p.b-0 Las pruebas realizadas a un dispositivo electrónico son las responsables de suministrar toda la información necesaria para identificar qué componente o componentes no están bajo las condiciones adecuadas para el correcto funcionamiento de un equipo electrónico. El apartado esencial dentro de las pruebas de diagnóstico de un aparato electrónico son la medición de elementos, esto debido a que los resultados de este procedimiento ayudan al profesional a verificar el estado en el cual se encuentra el objeto en el cual se está realizando la intervención, dado lo anterior, es necesario conocer el tipo de variable física que se quiere monitorear. 
       .col-lg-4(data-aos="fade-left")
@@ -31,7 +31,7 @@
     .bg1
       p A continuación, se presentan las mediciones más comunes.
 
-      AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
+      AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta")
         .row.justify-content-around.align-items-center(titulo="Medición de resistencias")
           .col-md-7.mb-4.mb-md-0
             p La medición de resistencia de un componente o sección de un circuito es importante, ya que indica las propiedades que tiene la región o elemento medido; resultados fuera de rangos normales dan indicios de las posibles afectaciones que presenta un equipo, por ejemplo, medidas muy elevadas de un componente pueden indicar corrosión o afectaciones por excesos de temperatura. También, gracias a los resultados se pueden detectar cortocircuitos o circuitos abiertos. La medición de resistencias se debe hacer por medio de un óhmetro o un multímetro.
@@ -88,38 +88,38 @@
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 3.2 Protocolos
 
-    .row.justify-content-center.align-items-center.mb-5.traslape1
-      .col-lg-6.tarjeta.bg-c-l
-        .p-4
-          p Una vez se ha identificado el tipo de prueba que se va a realizar, se debe considerar un conjunto de recomendaciones en procura de garantizar que el procedimiento que se llevará a cabo se hará de manera adecuada cumpliendo con los protocolos establecidos.
-          p.b-0 A continuación, se presenta el protocolo para tener en cuenta a la hora de realizar una prueba.
+    .row.justify-content-center.align-items-center.mb-5.traslape2
       .col-lg-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/temas/t3/f10.svg', alt='imagen relacionada')
+      .col-lg-6.tarjeta.bg-c-l.fgris1
+        .p-4
+          p Una vez se ha identificado el tipo de prueba que se va a realizar, se debe considerar un conjunto de recomendaciones en procura de garantizar que el procedimiento que se llevará a cabo se hará de manera adecuada cumpliendo con los protocolos establecidos.
+          p.b-0 A continuación, se presenta el protocolo para tener en cuenta a la hora de realizar una prueba.
 
     .bg2
       SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
-        .tarjeta.color-acento-botones.p-4
+        .tarjeta.color-secundario.bg-c-b.p-4(style="height:370px")
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/t3/f11.png' alt='icono relacionado')
           p Organizar u ordenar el área de trabajo.
-        .tarjeta.color-acento-botones.p-4
+        .tarjeta.color-secundario.bg-c-b.p-4(style="height:370px")
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/t3/f12.png' alt='icono relacionado')
           p Seleccionar herramientas y equipos adecuados para cada uno de los procedimientos.
-        .tarjeta.color-acento-botones.p-4
+        .tarjeta.color-secundario.bg-c-b.p-4(style="height:370px")
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/t3/f13.png' alt='icono relacionado')
           p Seguir los criterios y normas técnicas de cada uno de los fabricantes.
-        .tarjeta.color-acento-botones.p-4
+        .tarjeta.color-secundario.bg-c-b.p-4(style="height:370px")
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/t3/f14.png' alt='icono relacionado')
           p Corroborar si las variables físicas asociadas al equipo electrónico están bajo los estándares de calidad requeridos.
-        .tarjeta.color-acento-botones.p-4
+        .tarjeta.color-secundario.bg-c-b.p-4(style="height:370px")
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/t3/f15.png' alt='icono relacionado')
@@ -131,7 +131,7 @@
       h2 3.3 Unidades de medida
 
     .row.justify-content-center.align-items-center.mb-5.traslape1
-      .col-lg-6.tarjeta.bg-c-l
+      .col-lg-6.tarjeta.bg-c-l.fgris1
         .p-4
           p.b-0 Con los protocolos de prueba listos para cada una de las pruebas a realizar al equipo o pieza electrónica se debe identificar qué tipo de variable se va a medir para seleccionar de forma correcta el tipo de herramienta y equipo electrónico. Además, este tipo de información ayuda a que el profesional encargado del área de mantenimiento pueda tomar la decisión más adecuada de acuerdo con el proceso seleccionado. Dentro de las más comunes se tienen:
       .col-lg-4(data-aos="fade-left")
@@ -145,14 +145,14 @@
 
     .bg3
       .row.justify-content-center.align-items-center.mb-5.traslape1
-        .col-lg-6.tarjeta.bg-c-l
+        .col-lg-6.tarjeta.bg-c-l.fgris1
           .p-4
             p.b-0 Con las unidades de medida identificadas para cada uno de los procesos de las pruebas establecidas, se debe asociar las variables físicas propias de cada uno de los procesos, esto con el fin de garantizar el método adecuado para la medición de cada una de las variables. Las variables más comunes son:
         .col-lg-4(data-aos="fade-left")
           figure
             img(src='@/assets/curso/temas/t3/f17.svg', alt='imagen relacionada')
 
-        .col-lg-10.mt-4.tarjeta.p-4.bg-c-l
+        .col-lg-10.mt-4.tarjeta.p-4.bg-c-l.fgris1
           p.mb-0 Un factor adicional para tener en cuenta dentro de las pruebas es el rango en el cual la variable o variables a medir deben encontrarse. También se debe verificar el rango máximo y mínimo que son capaces de soportar las herramientas o equipos de medición para garantizar resultados precisos y resguardar la integridad de los dispositivos y operarios, más precisamente: “El campo de medida de un aparato de medida nos indica los valores entre los cuales el aparato mide con exactitud. Antes de realizar una medida habrá que prever con aproximación el orden de magnitud de la medida y con ello seleccionar el aparato más adecuado” (Miguel, A. P. S. (2016), p. 138).
 
     Separador
@@ -164,27 +164,27 @@
     p A continuación, se presentan la importancia de la interpretación de resultados en equipos electrónicos.  
 
     .row.justify-content-center.mb-5
-      .col-md-4
+      .col-md-4(data-aos="fade-left")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/t3/f18.svg' alt='AvatarTop')
-          .tarjeta.color-primario.w-100
+          .tarjeta.fcac25.w-100
             .text-white.p-4
-              h4.text-center Parámetros o rangos
-              p.text-center La interpretación de resultados dentro del proceso de pruebas electrónicas es crucial para recopilar todos los factores que provocaron la inoperatividad del equipo electrónico.
-      .col-md-4
+              h4.cst.text-center Parámetros o rangos
+              p.cst.text-center La interpretación de resultados dentro del proceso de pruebas electrónicas es crucial para recopilar todos los factores que provocaron la inoperatividad del equipo electrónico.
+      .col-md-4(data-aos="fade-down")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/t3/f19.svg' alt='AvatarTop')
-          .tarjeta.color-primario.w-100
+          .tarjeta.fcac25.w-100
             .text-white.p-4
-              h4.text-center Presentación y descripción de los fallos
-              p.text-center También es crucial para la presentación y descripción de los fallos con sus respectivas soluciones, esto ayuda a futuros profesionales a utilizar estos procedimientos como guías en futuras intervenciones del equipo electrónico.
-      .col-md-4
+              h4.cst.text-center Presentación y descripción de los fallos
+              p.cst.text-center También es crucial para la presentación y descripción de los fallos con sus respectivas soluciones, esto ayuda a futuros profesionales a utilizar estos procedimientos como guías en futuras intervenciones del equipo electrónico.
+      .col-md-4(data-aos="fade-right")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/t3/f20.svg' alt='AvatarTop')
-          .tarjeta.color-primario.w-100
+          .tarjeta.fcac25.w-100
             .text-white.p-4
-              h4.text-center Informes técnicos
-              p.text-center Por último, la interpretación de resultados en informes técnicos es fundamental en la toma de decisiones de una empresa, esto debido a que elimina actividades, prácticas o instalaciones que estén provocando fallos en los equipos electrónicos.
+              h4.cst.text-center Informes técnicos
+              p.cst.text-center Por último, la interpretación de resultados en informes técnicos es fundamental en la toma de decisiones de una empresa, esto debido a que elimina actividades, prácticas o instalaciones que estén provocando fallos en los equipos electrónicos.
 
     Separador
 
@@ -222,17 +222,17 @@
           p Un apartado muy importante que el profesional debe tener en cuenta y seguir en todas las intervenciones a realizar son los protocolos de seguridad y salud en el trabajo los cuales buscan reducir los accidentes en cada uno de los procesos.
           p A continuación, se presentan las recomendaciones que deber ser tenidas en cuenta a la hora de implementar el protocolo de seguridad. 
 
-          SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
-            .tarjeta.bg-c-b.p-4
-              p Para la prueba de los equipos electrónicos estas normas son de suma importancia ya que evitan lesiones en los operarios y técnicos de mantenimiento.
-            .tarjeta.bg-c-b.p-4
-              p Dentro de las mediciones se debe tener claridad de cómo y en qué condiciones realizar este proceso sin comprometer la integridad del equipo y del profesional, por ejemplo, la medición de resistencias, capacitancias e inductancias se deben realizar sin tener el equipo electrónico conectado al suministro eléctrico y esperando algunos minutos mientras se descargan cada uno de los acumuladores de energía del sistema, este simple acto reduce en gran medida las descargas eléctricas y por ende los accidentes.
-            .tarjeta.bg-c-b.p-4
-              p Este tipo de recomendaciones o normas se encuentran disponibles en el manual de usuario u hoja de datos del dispositivo electrónico, es por esto que se debe tener a la mano cada uno de los documentos asociados al equipo, pieza o elemento a intervenir.
-            .tarjeta.bg-c-b.p-4
-              p Además de tener en cuenta las recomendaciones para resguardar la seguridad del o los profesionales también es importante identificar los riesgos laborales, según García et al (2016) cualquier actividad física o emocional puede derivar en daños, los cuales deben prevenirse y estudiarse para evitar en lo posible su producción.
-            .tarjeta.bg-c-b.p-4
-              p Dado que los elementos o sustancias que componen un dispositivo resultan ser peligrosos es necesario seguir las recomendaciones del fabricante para tratar de la mejor manera este tipo de sustancias tratando, de evitar los accidentes. Por este motivo se invita a seguir las indicaciones del fabricante para evitar en todo momento los sucesos inesperados.
+          SlyderF.mb-5(columnas="col-lg-6 col-xl-6")
+            .tarjeta.bg-c-b.p-4(style="background-color: #7E89BE; height:340px")
+              p.text-small Para la prueba de los equipos electrónicos estas normas son de suma importancia ya que evitan lesiones en los operarios y técnicos de mantenimiento.
+            .tarjeta.bg-c-b.p-4(style="background-color: #7E89BE; height:340px")
+              p.text-small Dentro de las mediciones se debe tener claridad de cómo y en qué condiciones realizar este proceso sin comprometer la integridad del equipo y del profesional, por ejemplo, la medición de resistencias, capacitancias e inductancias se deben realizar sin tener el equipo electrónico conectado al suministro eléctrico y esperando algunos minutos mientras se descargan cada uno de los acumuladores de energía del sistema, este simple acto reduce en gran medida las descargas eléctricas y por ende los accidentes.
+            .tarjeta.bg-c-b.p-4(style="background-color: #7E89BE; height:340px")
+              p.text-small Este tipo de recomendaciones o normas se encuentran disponibles en el manual de usuario u hoja de datos del dispositivo electrónico, es por esto que se debe tener a la mano cada uno de los documentos asociados al equipo, pieza o elemento a intervenir.
+            .tarjeta.bg-c-b.p-4(style="background-color: #7E89BE; height:340px")
+              p.text-small Además de tener en cuenta las recomendaciones para resguardar la seguridad del o los profesionales también es importante identificar los riesgos laborales, según García et al (2016) cualquier actividad física o emocional puede derivar en daños, los cuales deben prevenirse y estudiarse para evitar en lo posible su producción.
+            .tarjeta.bg-c-b.p-4(style="background-color: #7E89BE; height:340px")
+              p.text-small Dado que los elementos o sustancias que componen un dispositivo resultan ser peligrosos es necesario seguir las recomendaciones del fabricante para tratar de la mejor manera este tipo de sustancias tratando, de evitar los accidentes. Por este motivo se invita a seguir las indicaciones del fabricante para evitar en todo momento los sucesos inesperados.
         .col-lg-4
           figure
             img(src='@/assets/curso/temas/t3/f22.png', alt='imagen relacionada')

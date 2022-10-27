@@ -7,7 +7,7 @@
         span 4
       h1 Gestión de mantenimiento
 
-    .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
+    .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
         :style="{'background-image':`url(${require('@/assets/curso/temas/t4/f1.jpg')})`}"
       )
@@ -25,9 +25,9 @@
       h2 4.1 Características de la gestión de mantenimiento
 
     .row.justify-content-center.align-items-center.mb-5.traslape1
-      .col-lg-6.tarjeta.bg-c-l
+      .col-lg-6.tarjeta.bg-c-l.fgris1
         .p-4
-          p.b-0 La principal característica del mantenimiento dentro de los procesos industriales y productivos es su planificación y la periodicidad con la que ocurre cada uno de los procesos o intervenciones, además, de la precisión en los tiempos en lo que se ejecuta cada una de las intervenciones; por eso se busca con cada acción mantener la productividad y la durabilidad de los equipos minimizando de esta manera los tiempos de inactividad, los imprevistos y los accidentes.
+          p.mb-0 La principal característica del mantenimiento dentro de los procesos industriales y productivos es su planificación y la periodicidad con la que ocurre cada uno de los procesos o intervenciones, además, de la precisión en los tiempos en lo que se ejecuta cada una de las intervenciones; por eso se busca con cada acción mantener la productividad y la durabilidad de los equipos minimizando de esta manera los tiempos de inactividad, los imprevistos y los accidentes.
       .col-lg-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/temas/t4/f2.svg', alt='imagen relacionada')
@@ -45,16 +45,16 @@
         template(v-slot:imagen)
           figure
             img(src='@/assets/curso/temas/t4/f3.svg', alt='Texto que describa la imagen')
-        .tarjeta.color-acento-botones.p-3(x="20%" y="20%" numero="1")
+        .tarjeta.color-secundario.p-3.bg-c-b(x="5%" y="40%" numero="1")
           .h5.mb-2 Frecuencia
           p La frecuencia con la que se interviene un equipo depende de la cantidad de horas de funcionamiento y del nivel de importancia que éste representa dentro de la organización, por ejemplo, realizar mantenimientos fuera de las horas productivas de un equipo ayuda a mantener la productividad de una empresa. Adicionalmente, se debe considerar situaciones críticas como por ejemplo el rozamiento de las piezas, esto debido a que aspectos como la refrigeración o la lubricación promueven tiempos de intervención más frecuentes.
-        .tarjeta.color-acento-botones.p-3(x="20%" y="20%" numero="2")
+        .tarjeta.color-secundario.p-3.bg-c-b(x="93%" y="16%" numero="2")
           .h5.mb-2 Especialidad
           p La especialidad busca asignar el profesional adecuado para realizar el mantenimiento a cada uno de los equipos presentes en la organización. Con esto se garantiza que el dispositivo no sufra afectaciones por malos procedimientos.
-        .tarjeta.color-acento-botones.p-3(x="20%" y="20%" numero="3")
+        .tarjeta.color-secundario.p-3.bg-c-b(x="66%" y="90%" numero="3")
           .h5.mb-2 Durabilidad
           p Agendar los tiempos en los cuales un equipo está fuera de uso es crucial para que los encargados del área productiva de una empresa puedan con tiempo realizar acciones frente a estas intervenciones. Como profesional la durabilidad de un equipo electrónico resulta ser critica dada la importancia que tiene algunos dispositivos dentro de al área productiva de una organización.
-        .tarjeta.color-acento-botones.p-3(x="20%" y="20%" numero="4")
+        .tarjeta.color-secundario.p-3.bg-c-b(x="10%" y="14%" numero="4")
           .h5.mb-2 Permisos
           p En ocasiones las intervenciones que se realizan a los dispositivos electrónicos requieren de la gestión de permisos debido al alto riesgo de accidentalidad y de la importancia que posee cada aparato dentro de la organización. Dado lo anterior, resulta importante que dentro del plan de mantenimiento también se contemple si la intervención requiere de algún permiso especial.
 
@@ -64,9 +64,9 @@
       h2 4.3 Costos y presupuestos
 
     .row.justify-content-center.align-items-center.mb-5.traslape1
-      .col-lg-6.tarjeta.bg-c-l
+      .col-lg-6.tarjeta.bg-c-l.fgris1
         .p-4
-          p.b-0 Con el propósito de 
+          p.mb-0 Con el propósito de 
             b garantizar el cumplimiento del plan de mantenimiento 
             | se debe tener en cuenta el 
             b costo estimado de cada una de las intervenciones a realizar en el periodo designado
@@ -85,7 +85,7 @@
     p Los repuestos y piezas son fundamentales a la hora de realizar el mantenimiento de equipos electrónicos, son este tipo de elementos los que garantizan que un dispositivo continúe en funcionamiento. 
     p A continuación, se presentan algunos aspectos que deben ser considerados en este procedimiento.
 
-    PasosA.color-primario.mb-5(tipo="n")
+    PasosA.color-acento-contenido.mb-5(tipo="n")
       .row.justify-content-center.align-items-center(titulo="")
         .col-md-6.mb-4.mb-md-0
           h4 Identificación 
