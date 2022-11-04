@@ -223,15 +223,15 @@
           p A continuación, se presentan las recomendaciones que deber ser tenidas en cuenta a la hora de implementar el protocolo de seguridad. 
 
           SlyderF.mb-5(columnas="col-lg-6 col-xl-6")
-            .tarjeta.bg-c-b.p-4(style="background-color: #7E89BE; height:340px")
+            .tarjeta.bg-c-b.p-4(style="background-color: #7E89BE; height:400px")
               p.text-small Para la prueba de los equipos electrónicos estas normas son de suma importancia ya que evitan lesiones en los operarios y técnicos de mantenimiento.
-            .tarjeta.bg-c-b.p-4(style="background-color: #7E89BE; height:340px")
+            .tarjeta.bg-c-b.p-4(style="background-color: #7E89BE; height:400px")
               p.text-small Dentro de las mediciones se debe tener claridad de cómo y en qué condiciones realizar este proceso sin comprometer la integridad del equipo y del profesional, por ejemplo, la medición de resistencias, capacitancias e inductancias se deben realizar sin tener el equipo electrónico conectado al suministro eléctrico y esperando algunos minutos mientras se descargan cada uno de los acumuladores de energía del sistema, este simple acto reduce en gran medida las descargas eléctricas y por ende los accidentes.
-            .tarjeta.bg-c-b.p-4(style="background-color: #7E89BE; height:340px")
+            .tarjeta.bg-c-b.p-4(style="background-color: #7E89BE; height:400px")
               p.text-small Este tipo de recomendaciones o normas se encuentran disponibles en el manual de usuario u hoja de datos del dispositivo electrónico, es por esto que se debe tener a la mano cada uno de los documentos asociados al equipo, pieza o elemento a intervenir.
-            .tarjeta.bg-c-b.p-4(style="background-color: #7E89BE; height:340px")
+            .tarjeta.bg-c-b.p-4(style="background-color: #7E89BE; height:400px")
               p.text-small Además de tener en cuenta las recomendaciones para resguardar la seguridad del o los profesionales también es importante identificar los riesgos laborales, según García et al (2016) cualquier actividad física o emocional puede derivar en daños, los cuales deben prevenirse y estudiarse para evitar en lo posible su producción.
-            .tarjeta.bg-c-b.p-4(style="background-color: #7E89BE; height:340px")
+            .tarjeta.bg-c-b.p-4(style="background-color: #7E89BE; height:400px")
               p.text-small Dado que los elementos o sustancias que componen un dispositivo resultan ser peligrosos es necesario seguir las recomendaciones del fabricante para tratar de la mejor manera este tipo de sustancias tratando, de evitar los accidentes. Por este motivo se invita a seguir las indicaciones del fabricante para evitar en todo momento los sucesos inesperados.
         .col-lg-4
           figure

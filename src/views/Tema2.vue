@@ -14,7 +14,7 @@
       .bloque-texto-g__texto.p-4.fblanco
         p.mb-0 Las fallas en los equipos electrónicos son sucesos espontáneos que provocan funcionamientos inadecuados en los componentes internos de un dispositivo, ocasionando con esto averías o daños en los equipos. Debido a esto, el profesional encargado del área de mantenimiento debe ser capaz de identificar las posibles fallas, el origen, los posibles procedimientos y la interpretación de la documentación dispuesta por el fabricante para dar inicio con las intervenciones adecuadas para la solución, reparación o calibración de cada uno de los aparatos electrónicos. Esto en pro de reducir los tiempos de inactividad de un equipo y, en consecuencia, la disminución en los costos operativos de una organización permitiendo, además, la generación de productos óptimos para los clientes o usuarios finales. Una vez identificado qué tipo de aparato electrónico se va a intervenir y dada la importancia en la detección de las fallas y la prevención de estas, es necesario proceder con todos los procesos indispensables para hacer frente a las fallas de un equipo.
 
-    p Conocer la definición de las principales variables y principios en los circuitos electrónicos es de suma importancia para la caracterización de las piezas o elementos a intervenir. 
+    p A continuación, se presentan los procesos que se deben realizar al momento de identificar una falla:
 
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
       h5 Figura 3. 

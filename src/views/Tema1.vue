@@ -87,7 +87,6 @@
               img(src='@/assets/curso/temas/t1/f7.png', alt='imagen relacionada')
         .row.justify-content-between.align-items-center
           .col-md-7.mb-4.mb-md-0.ms-5
-            h4 Herramientas
             ul.lista-ul--color
               li
                 i.fas.fa-circle.text-small.cab
@@ -98,7 +97,6 @@
               img(src='@/assets/curso/temas/t1/f8.png', alt='imagen relacionada')
         .row.justify-content-between.align-items-center
           .col-md-7.mb-4.mb-md-0.ms-5
-            h4 Herramientas
             ul.lista-ul--color
               li
                 i.fas.fa-circle.text-small.cab
