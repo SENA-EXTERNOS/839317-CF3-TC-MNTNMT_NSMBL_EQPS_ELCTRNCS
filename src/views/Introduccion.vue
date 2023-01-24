@@ -11,9 +11,10 @@
 
     .row.justify-content-center.mb-5
       .col-lg-7
-        p Apreciado aprendiz, sea bienvenido a este momento de aprendizaje que está orientado al diagnóstico de equipos electrónicos, donde aprenderá sobre la caracterización de los mismos, la localización de fallas, los protocolos de pruebas y la gestión de equipos electrónicos; saberes que son esenciales, ya que permiten reducir costos operativos y prolongar la vida útil de los equipos, manteniendo y potencializando la productividad en una organización.
-        p En el siguiente video conocerá de forma general, la temática que estudiará a lo largo de este componente formativo.
-        p.cp: b ¡Muchos éxitos en este proceso de aprendizaje!
+        p Apreciado aprendiz, bienvenido a este componente formativo, donde afianzará conceptos y habilidades, relacionados con el diagnóstico de equipos electrónicos y la caracterización de los mismos, la localización de fallas, los protocolos de pruebas y la gestión de equipos electrónicos; todos son saberes esenciales que favorecen la reducción de costos operativos y prolongan la vida útil de los equipos, manteniendo y potencializando la productividad de la organización.
+
+        p En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo.
+      
       .col-lg-5(data-aos="fade-left")
         figure
           img(src='@/assets/curso/temas/if1.png', alt='procesador')

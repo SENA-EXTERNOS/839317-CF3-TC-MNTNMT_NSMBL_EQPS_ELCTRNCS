@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Diagnóstico de equipos electrónicos',
     descripcionCurso:
-      'Los equipos electrónicos son fundamentales en la producción de una empresa, por esto es necesario revisar de manera periódica cada uno de estos dispositivos en busca de fallas o imperfecciones que puedan provocar un mal desempeño y así, mitigar el desgaste de los equipos provocados por el uso excesivo, minimizar costos operacionales, maximizar la productividad y reducir el tiempo de las intervenciones realizadas.',
+      'Los equipos electrónicos son fundamentales en la producción de una empresa; por esta razón, es necesario revisar, de manera periódica, cada uno de estos dispositivos, en busca de fallas o imperfecciones que puedan provocar un mal desempeño y, de esta manera, mitigar el desgaste de los equipos provocados por el uso excesivo, como también minimizar costos operacionales, maximizar la productividad y reducir el tiempo de las intervenciones realizadas.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-img.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/banner-bg.png'),
     imagenesDecorativasBanner: [
@@ -39,32 +39,6 @@ export default {
         numero: '1',
         titulo: 'Equipos electrónicos',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Equipos',
-            hash: 't_1_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Bloques funcionales',
-            hash: 't_1_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Parámetros de interpretación',
-            hash: 't_1_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.4',
-            titulo: 'Políticas de garantía',
-            hash: 't_1_4',
-          },
-        ],
       },
       {
         nombreRuta: 'tema2',
@@ -79,56 +53,6 @@ export default {
         numero: '3',
         titulo: 'Pruebas y mediciones',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo: 'Pruebas',
-            hash: 't_3_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'Protocolos ',
-            hash: 't_3_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.3',
-            titulo: 'Unidades de medida',
-            hash: 't_3_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.4',
-            titulo: 'Variables y rangos',
-            hash: 't_3_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.5',
-            titulo: 'Interpretación',
-            hash: 't_3_5',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.6',
-            titulo: 'Funcionamiento',
-            hash: 't_3_6',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.7',
-            titulo: 'Puesta en marcha',
-            hash: 't_3_7',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.8',
-            titulo: 'Protocolo de seguridad',
-            hash: 't_3_8',
-          },
-        ],
       },
       {
         nombreRuta: 'tema4',
@@ -136,32 +60,6 @@ export default {
         numero: '4',
         titulo: 'Gestión de mantenimiento',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.1',
-            titulo: 'Características de la gestión de mantenimiento',
-            hash: 't_4_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.2',
-            titulo: 'Planes',
-            hash: 't_4_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.3',
-            titulo: 'Costos y presupuestos',
-            hash: 't_4_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.4',
-            titulo: 'Repuestos, piezas y documentos',
-            hash: 't_4_4',
-          },
-        ],
       },
     ],
     subMenu: [
@@ -206,51 +104,50 @@ export default {
   },
   complementario: [
     {
-      tema: 'Protocolos de seguridad',
+      tema: 'Pruebas y mediciones',
       referencia:
-        'Nl, D. (2021, 18 marzo). <em>Veiligheidsmaatregelen bij het werken met elektrische apparatuur</em> | Dell Nederland. Recuperado 13 de septiembre de 2022',
-      tipo: 'Artículo ',
+        'Dell technologies. (2021). Precauciones de seguridad al trabajar con equipos.',
+      tipo: 'Artículo',
       link:
         'https://www.dell.com/support/kbdoc/es-co/000137973/precauciones-de-seguridad-cuando-se-trabaja-con-el-equipo-el%C3%A9ctrico',
     },
     {
-      tema: 'Protocolos de seguridad',
+      tema: 'Gestión de mantenimiento',
       referencia:
-        'Aprende Institute. (2022, 22 julio). <em>Herramientas utilizadas en la reparación electrónica</em>.',
+        'Aprende Institute. (s.f.). Herramientas utilizadas en la reparación electrónica. ',
       tipo: 'Página web',
       link:
         'https://aprende.com/blog/oficios/reparacion-electronica/herramientas-utilizadas-en-la-reparacion-electronica/',
     },
     {
-      tema: 'Pruebas y mediciones',
+      tema: 'Gestión de mantenimiento',
       referencia:
-        '<em>Cómo reparar una lámpara LED </em>| Aprende Institute. (2021, 3 septiembre). [Vídeo]. YouTube.',
+        'Aprende Institute Oficios. (2021). Cómo reparar una lámpara LED | Aprende Institute [video]. YouTube.',
       tipo: 'video',
       link:
         'https://www.youtube.com/watch?v=CvZeHIvXL60&list=PLntfA_AupyFvHBOBC5x4UqIYeIHaXnLYn',
     },
     {
-      tema: 'Mantenimiento de equipos',
+      tema: 'Gestión de mantenimiento',
       referencia:
-        'Renovetec. (2 de noviembre de 2020). <em>MANTENIMIENTO DE SISTEMAS ELECTRÓNICOS (INSTRUMENTACIÓN Y CONTROL)</em>. (). [Vídeo]. YouTube.',
+        'Renovetec. (2020). Mantenimiento de sistemas electrónicos (instrumentación y control [video]. YouTube.',
       tipo: 'video',
       link: 'https://www.youtube.com/watch?v=2NlDkTy0lPc',
     },
     {
-      tema: 'Mantenimiento de equipos',
-      referencia:
-        'Miguel, A. P. S. (2016). <em>Electrónica aplicada</em> (Edición número 2). Paraninfo.',
+      tema: 'Gestión de mantenimiento',
+      referencia: 'Miguel, A. (2016). Electrónica aplicada. Paraninfo.',
       tipo: 'Libro',
       link:
         'https://www-alphaeditorialcloud-com.bdigital.sena.edu.co/library/filter?category=ingenieria-electrica-electronica-y-telecomunicaciones',
     },
     {
-      tema: 'Puesta a tierra',
+      tema: 'Pruebas y mediciones',
       referencia:
-        'Levy, R. R. (2020). <em>Puestas a tierra: criterios de seguridad eléctrica y técnica</em>. Jorge Sarmiento Editor - Universitas.',
+        'Levy, R. (2020). Puestas a tierra: criterios de seguridad eléctrica y técnica. Universitas.',
       tipo: 'Libro',
       link:
-        'https://www-alphaeditorialcloud-com.bdigital.sena.edu.co/reader/puestas-a-tierra-seguridad-electrica-y-tecnica-ruben-levy?location=1',
+        'https://login.bdigital.sena.edu.co/login?qurl=https://www.alphaeditorialcloud.com%2freader%2fpuestas-a-tierra-seguridad-electrica-y-tecnica-ruben-levy%3flocation%3d1',
     },
   ],
   glosario: [
@@ -318,59 +215,56 @@ export default {
   referencias: [
     {
       referencia:
-        'Agudelo Ríos, L. H. (2001). <em>Importancia de las telecomunicaciones en el desarrollo universal</em>. Ciencia e Ingeniería Neogranadina, 11, 13-15.',
+        'Agudelo, L. (2001). Importancia de las telecomunicaciones en el desarrollo universal. <em>Ciencia e Ingeniería Neogranadina, 11</em>, p. 13-15.',
       link: 'https://doi.org/10.18359/rcin.1349',
     },
     {
       referencia:
-        'Alcalde San Miguel, P. (2016). <em>Electrónica aplicada</em>. (2 Ed). Madrid: Paraninfo.',
+        'Alcalde, P. (2016). <em>Electrónica aplicada</em>. Paraninfo.',
+      link: '',
     },
     {
       referencia:
-        'Cámara Argentina de la Industria del Juguete [CAIJ]. (s.f.). <em>La Importancia del juego y los juguetes</em>.  Recuperado 10 de septiembre de 2022, de',
+        'Cámara Argentina de la Industria del Juguete. (s.f.). <em>La Importancia del juego y los juguetes</em>.  CAIJ. ',
       link:
         'https://caij.org.ar/ejes-de-trabajo/valoracion-del-juguete/la-importancia-de-los-juguetes-y-el-juego/',
     },
     {
       referencia:
-        'Centro de Estudios Superiores Maranathá [Cesuma], A. (2022, 21 junio). <em>Sistema informático: características, funciones, clasificación y etapas de desarrollo</em>. Recuperado 10 de septiembre de 2022, de',
+        'Cortés, D. (2022). Sistema informático: características, funciones, clasificación y etapas de desarrollo. <em>Cesuma</em>.',
       link:
         'https://www.cesuma.mx/blog/sistema-informatico-caracteristicas-funciones-clasificacion-y-etapas-de-desarrollo.html',
     },
     {
       referencia:
-        'García, F. C., Tárraga, D., Gil, J., Madrid, P. L. C., FERNÁNDEZ GARCÍA, C., LASSO TARRAGA, D., & MORENO GIL, J. (2016). <em>Instalaciones eléctricas interiores</em> 4.a edición. Paraninfo.',
-    },
-    {
-      referencia:
-        'Instituto Renovetec IRIM (s.f). <em>¿Qué es un plan de mantenimiento? ¿Quieres saberlo todo sobre la elaboración de un plan de mantenimiento?</em> Recuperado el 22 de septiembre de 2022 de',
+        'Instituto Renovetec.  (s.f). <em>¿Qué es un plan de mantenimiento? ¿Quieres saberlo todo sobre la elaboración de un plan de mantenimiento?</em>',
       link:
         'http://www.renovetec.com/irim/sobre-mantenimiento/planes-de-mantenimiento/que-es-un-plan-de-mantenimiento',
     },
     {
       referencia:
-        'Levy, R. R. (2020). <em>Puestas a tierra: criterios de seguridad eléctrica y técnica</em>. Jorge Sarmiento Editor - Universitas.',
+        'Levy, R. (2020). <em>Puestas a tierra: criterios de seguridad eléctrica y técnica</em>. Universitas.',
+      link: '',
     },
     {
       referencia:
-        '<em>La Importancia del juego y los juguetes</em> | CAIJ - Cámara argentina de la industria del juguete. (s. f.). Recuperado 10 de septiembre de 2022, de',
-      link:
-        'https://caij.org.ar/ejes-de-trabajo/valoracion-del-juguete/la-importancia-de-los-juguetes-y-el-juego/',
+        'Machado, P. (2022, abril 5). ¿Cuáles Son Los Diferentes Tipos de Mantenimiento? [Web log post]. <em>Infraspeak</em>.',
+      link: 'https://blog.infraspeak.com/es/tipos-de-mantenimiento/ ',
     },
     {
       referencia:
-        'Machado, P. (2022, 5 abril). <em>¿Cuáles Son Los Diferentes Tipos de Mantenimiento?</em> [2022]. Infraspeak Blog.',
-      link: 'https://blog.infraspeak.com/es/tipos-de-mantenimiento/',
+        'Madrid, P., Fernández, C., Lasso, D., & Moreno, J. (2016). <em>Instalaciones eléctricas interiores</em>. Paraninfo.',
+      link: '',
     },
     {
       referencia:
-        'Revista educativa Caracteristicasdel.com. (2021). <em>Características del Mantenimiento Preventivo</em>. Recuperado el 22 de septiembre de 2022 de',
+        'Revista educativa Caracteristicasdel. (2021). <em>Características del Mantenimiento Preventivo</em>.',
       link:
         'https://www.caracteristicasdel.com/negocios/caracteristicas_del_mantenimiento_preventivo.html',
     },
     {
       referencia:
-        'Revista educativa Caracteristicasdel.com. (2021). <em>Características de cosas y términos</em>. Recuperado el 22 de septiembre de 2022 de',
+        'Revista educativa Caracteristicasdel. (2021). <em>Características de cosas y términos</em>.',
       link:
         'https://www.caracteristicasdel.com/?s=Caracter%C3%ADsticas+de+cosas+y+t%C3%A9rminos',
     },
