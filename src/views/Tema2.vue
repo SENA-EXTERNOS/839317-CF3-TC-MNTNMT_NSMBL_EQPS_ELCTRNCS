@@ -26,7 +26,7 @@
         .h5.mb-2 1. Codificación
         p La codificación de fallas es fundamental a la hora de localizar la o las averías relacionadas con el mal funcionamiento de un equipo electrónico. Estos códigos se caracterizan por ser una combinación alfanumérica que brinda una ruta a seguir para localizar el sector, pieza o circuito, que se encuentra en malas condiciones; es labor del profesional verificar, corregir o reemplazar los componentes necesarios para salir del percance. Es importante mencionar que cada fabricante, a pesar de las normas internacionales, tiene diferentes interpretaciones para un mismo código; por esta razón, se deben seguir las instrucciones del manual del fabricante, o la hoja de datos de los componentes.
 
-      .tarjeta.fcpclaro.p-4.bg-c-l(x="29.4%" y="91%" tooltip="2. Relación causa efecto" numero="2")
+      .tarjeta.fcsclaro.p-4.bg-c-l(x="29.4%" y="91%" tooltip="2. Relación causa efecto" numero="2")
         .h5.mb-2 2. Relación causa efecto
         p Además de tener una noción del sector o pieza afectada, se deben conocer las causas que llevaron a ese componente, a fallar. Esto, es importante para evitar que el elemento se siga desgastando. 
 
@@ -36,7 +36,7 @@
         .h5.mb-2 3. Localización
         p Una vez realizado el procedimiento para dar con el sector afectado y realizadas las correcciones relacionadas con las causas del incidente, se identifican el punto crítico de la avería y las piezas específicas dentro del área comprometida. Para esto, se deben localizar los bloques funcionales y sectorizar los apartados importantes dentro de los mismos, para generar una hoja de ruta, en los procesos de diagnóstico.
 
-      .tarjeta.fcpclaro.p-4.bg-c-l(x="64%" y="91%" tooltip="4. Procedimientos de diagnóstico" numero="4")
+      .tarjeta.fcsclaro.p-4.bg-c-l(x="64%" y="91%" tooltip="4. Procedimientos de diagnóstico" numero="4")
         .h5.mb-2 4. Procedimientos de diagnóstico
         p Para identificar las piezas o elementos afectados dentro del sector comprometido, se realiza, en conjunto con herramientas especializadas, la medición de las variables asociadas a cada uno de los componentes, para verificar la respuesta de estos y validar su funcionamiento.
 

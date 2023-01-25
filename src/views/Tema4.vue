@@ -58,7 +58,7 @@
 
         .tarjeta.color-secundario.p-3.bg-c-b(x="66%" y="90%" numero="3")
           .h5.mb-2 Durabilidad
-          p Agendar los tiempos en los cuales un equipo está fuera de uso, es crucial para que los encargados del área productiva de una empresa puedan, con el tiempo justo, realizar acciones frente a estas intervenciones. Como profesional, la durabilidad de un equipo electrónico resulta ser crítica, dada la importancia que tienen algunos dispositivos dentro de al área productiva de una organización.
+          p Agendar los tiempos en los cuales un equipo está fuera de uso, es crucial para que los encargados del área productiva de una empresa puedan, con el tiempo justo, realizar acciones frente a estas intervenciones. Como profesional, la durabilidad de un equipo electrónico resulta ser crítica, dada la importancia que tienen algunos dispositivos dentro del área productiva de una organización.
 
         .tarjeta.color-secundario.p-3.bg-c-b(x="10%" y="14%" numero="4")
           .h5.mb-2 Permisos
@@ -107,8 +107,8 @@
             img(src='@/assets/curso/temas/t4/f7.svg', alt='imagen relacionada')
 
     .cajon.color-primario.p-4
-      p.mb-0 ha finalizado el estudio de este componente formativo a través del cual ha aprendido sobre el diagnóstico de equipos electrónicos. Ahora lo invitamos a estudiar la síntesis, donde podrá recordar de forma general los saberes que se han desarrollado, a realizar la actividad de aprendizaje donde podrá colocar a prueba lo aprendido, consultar el material complementario que le servirá como refuerzo y profundización y estudiar el glosario. 
-
+      p.mb-0 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
+      
 </template>
 
 <script>

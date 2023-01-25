@@ -37,9 +37,9 @@
           .col-md-7.mb-4.mb-md-0.ms-5
             h4 Electrodomésticos
 
-            p.text-small En este primer grupo, se encuentran todos aquellos equipos electrónicos destinados a mejorar, automatizar o agilizar tareas domésticas. Se caracterizan por su fácil uso e instalación, pensados para que una persona sin conocimiento sobre electrónica o eléctrica, pueda poner en marcha. Adicionalmente, este tipo de dispositivos son lo más comunes de la lista que se va a presentar. Su uso es indispensable en casi todas las actividades que se desarrollan en la vida cotidiana de cualquier persona, dentro del hogar, siendo esta característica, su principal atributo de identificación.
+            p.text-small En este primer grupo, se encuentran todos aquellos equipos electrónicos destinados a mejorar, automatizar o agilizar tareas domésticas. Se caracterizan por su fácil uso e instalación, pensados para que una persona sin conocimientos sobre electrónica o eléctrica, pueda poner en marcha. Adicionalmente, este tipo de dispositivos son los más comunes de la lista que se va a presentar. Su uso es indispensable en casi todas las actividades que se desarrollan en la vida cotidiana de cualquier persona, dentro del hogar, siendo esta característica, su principal atributo de identificación.
  
-            p.text-small En conclusión, los electrodomésticos son aparatos electrónicos presentes en los hogares, que ayudan en las tareas diarias, facilitado su ejecución.
+            p.text-small En conclusión, los electrodomésticos son aparatos electrónicos presentes en los hogares, que ayudan en las tareas diarias, facilitando su ejecución.
           
           .col-md-4
             figure
@@ -53,15 +53,6 @@
 
             p.text-small Ambos grupos, por lo general, trabajan juntos, dada su importancia en el tratamiento de la información, tanto personal como empresarial. Además, la necesidad de solucionar problemas con rapidez y enlazar fuentes distantes de manera óptima, los vuelve indispensables en las organizaciones.
             
-            a.anexo.mb-4(:href="obtenerLink('downloads/CF3_839317_Anexo1.pptx')" target="_blank")
-              .row.justify-content-between.align-items-center
-                .anexo__icono(style="width:55px")
-                  img(src="@/assets/curso/temas/link-orange-icon.svg")
-                .anexo__texto
-                  p.text-small 
-                    span.cst Importancia de las telecomunicaciones en el desarrollo universal. 
-                    br 
-                    a(href="https://revistas.unimilitar.edu.co/index.php/rcin/article/view/1349" target="_blank") https://revistas.unimilitar.edu.co/index.php/rcin/article/view/1349
           .col-md-4
             figure
               img(src='@/assets/curso/temas/t1/f4.png', alt='imagen relacionada')

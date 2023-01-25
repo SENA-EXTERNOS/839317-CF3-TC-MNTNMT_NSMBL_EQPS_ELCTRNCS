@@ -137,8 +137,8 @@
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/t3/img5.svg' alt='icono relacionado')
-          p Un dispositivo no funciona de igual manera frente a CC o CA, se debe identificar de forma correcta que tipo de corriente se va a medir (Miguel, A. P. S. (2016).).
-
+          p Un dispositivo no funciona de igual manera frente a CC o CA; se debe identificar de forma correcta, qué tipo de corriente se va a medir. 
+          
     .row.mt-5
       h3 Unidades de medida
 
@@ -249,8 +249,7 @@
           .row.align-items-center
             
             .col-9
-              p.text-card  Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
-
+              p.text-card Dado que los elementos o sustancias que componen un dispositivo resultan ser peligrosos, es necesario seguir las recomendaciones del fabricante para tratar, de la mejor manera, este tipo de sustancias y evitar accidentes. Por este motivo, se invita a seguir las indicaciones del fabricante para evitar en todo momento los sucesos inesperados.
 </template>
 
 <script>

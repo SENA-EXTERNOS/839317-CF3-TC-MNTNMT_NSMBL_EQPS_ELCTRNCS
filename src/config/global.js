@@ -106,7 +106,7 @@ export default {
     {
       tema: 'Pruebas y mediciones',
       referencia:
-        'Dell technologies. (2021). Precauciones de seguridad al trabajar con equipos.',
+        'Dell technologies. (2021). <em>Precauciones de seguridad al trabajar con equipos</em>.',
       tipo: 'Artículo',
       link:
         'https://www.dell.com/support/kbdoc/es-co/000137973/precauciones-de-seguridad-cuando-se-trabaja-con-el-equipo-el%C3%A9ctrico',
@@ -114,7 +114,7 @@ export default {
     {
       tema: 'Gestión de mantenimiento',
       referencia:
-        'Aprende Institute. (s.f.). Herramientas utilizadas en la reparación electrónica. ',
+        'Aprende Institute. (s.f.). <em>Herramientas utilizadas en la reparación electrónica</em>. ',
       tipo: 'Página web',
       link:
         'https://aprende.com/blog/oficios/reparacion-electronica/herramientas-utilizadas-en-la-reparacion-electronica/',
@@ -122,7 +122,7 @@ export default {
     {
       tema: 'Gestión de mantenimiento',
       referencia:
-        'Aprende Institute Oficios. (2021). Cómo reparar una lámpara LED | Aprende Institute [video]. YouTube.',
+        'Aprende Institute Oficios. (2021). <em>Cómo reparar una lámpara LED | Aprende Institute</em> [video]. YouTube.',
       tipo: 'video',
       link:
         'https://www.youtube.com/watch?v=CvZeHIvXL60&list=PLntfA_AupyFvHBOBC5x4UqIYeIHaXnLYn',
@@ -130,13 +130,14 @@ export default {
     {
       tema: 'Gestión de mantenimiento',
       referencia:
-        'Renovetec. (2020). Mantenimiento de sistemas electrónicos (instrumentación y control [video]. YouTube.',
+        'Renovetec. (2020). <em>Mantenimiento de sistemas electrónicos (instrumentación y control</em> [video]. YouTube.',
       tipo: 'video',
       link: 'https://www.youtube.com/watch?v=2NlDkTy0lPc',
     },
     {
       tema: 'Gestión de mantenimiento',
-      referencia: 'Miguel, A. (2016). Electrónica aplicada. Paraninfo.',
+      referencia:
+        'Miguel, A. (2016). <em>Electrónica aplicada</em>. Paraninfo.',
       tipo: 'Libro',
       link:
         'https://www-alphaeditorialcloud-com.bdigital.sena.edu.co/library/filter?category=ingenieria-electrica-electronica-y-telecomunicaciones',
@@ -144,7 +145,7 @@ export default {
     {
       tema: 'Pruebas y mediciones',
       referencia:
-        'Levy, R. (2020). Puestas a tierra: criterios de seguridad eléctrica y técnica. Universitas.',
+        'Levy, R. (2020). <em>Puestas a tierra: criterios de seguridad eléctrica y técnica</em>. Universitas.',
       tipo: 'Libro',
       link:
         'https://login.bdigital.sena.edu.co/login?qurl=https://www.alphaeditorialcloud.com%2freader%2fpuestas-a-tierra-seguridad-electrica-y-tecnica-ruben-levy%3flocation%3d1',
