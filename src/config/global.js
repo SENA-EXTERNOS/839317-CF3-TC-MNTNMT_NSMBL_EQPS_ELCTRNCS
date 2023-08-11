@@ -122,10 +122,10 @@ export default {
     {
       tema: 'Gestión de mantenimiento',
       referencia:
-        'Aprende Institute Oficios. (2021). <em>Cómo reparar una lámpara LED | Aprende Institute</em> [video]. YouTube.',
+        'Darwin Murillo. (2022). Cómo arreglar una lámpara LED (Video). YouTube.',
       tipo: 'video',
       link:
-        'https://www.youtube.com/watch?v=CvZeHIvXL60&list=PLntfA_AupyFvHBOBC5x4UqIYeIHaXnLYn',
+        'https://www.youtube.com/watch?v=kz5kxZCr7Eo&ab_channel=DarwinMurillo',
     },
     {
       tema: 'Gestión de mantenimiento',

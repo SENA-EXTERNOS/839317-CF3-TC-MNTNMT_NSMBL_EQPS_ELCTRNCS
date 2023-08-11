@@ -36,10 +36,10 @@
         .row.justify-content-between.align-items-center
           .col-md-7.mb-4.mb-md-0.ms-5
             h4 Electrodomésticos
-
-            p.text-small En este primer grupo, se encuentran todos aquellos equipos electrónicos destinados a mejorar, automatizar o agilizar tareas domésticas. Se caracterizan por su fácil uso e instalación, pensados para que una persona sin conocimientos sobre electrónica o eléctrica, pueda poner en marcha. Adicionalmente, este tipo de dispositivos son los más comunes de la lista que se va a presentar. Su uso es indispensable en casi todas las actividades que se desarrollan en la vida cotidiana de cualquier persona, dentro del hogar, siendo esta característica, su principal atributo de identificación.
  
-            p.text-small En conclusión, los electrodomésticos son aparatos electrónicos presentes en los hogares, que ayudan en las tareas diarias, facilitando su ejecución.
+            p En este primer grupo, se encuentran todos aquellos equipos electrónicos destinados a mejorar, automatizar o agilizar tareas domésticas. Se caracterizan por su fácil uso e instalación, pensados para que una persona sin conocimientos sobre electrónica o eléctrica, pueda poner en marcha. Adicionalmente, este tipo de dispositivos son los más comunes de la lista que se va a presentar. Su uso es indispensable en casi todas las actividades que se desarrollan en la vida cotidiana de cualquier persona, dentro del hogar, siendo esta característica, su principal atributo de identificación.
+ 
+            p En conclusión, los electrodomésticos son aparatos electrónicos presentes en los hogares, que ayudan en las tareas diarias, facilitando su ejecución.
           
           .col-md-4
             figure
@@ -47,11 +47,11 @@
         .row.justify-content-between.align-items-center
           .col-md-7.mb-4.mb-md-0.ms-5
             h4 Informática y telecomunicaciones
-            p.text-small Son dispositivos electrónicos diseñados para la comunicación y el tratamiento de la información. 
+            p Son dispositivos electrónicos diseñados para la comunicación y el tratamiento de la información. 
 
-            p.text-small En primer lugar, se tienen los aparatos informáticos, cuya función es la de recibir, emitir, almacenar, procesar y transmitir la información de un usuario o empresa (Cesuma, 2022). El segundo grupo, son los equipos destinados a las telecomunicaciones, los cuales cumplen con el rol específico de transmitir la información de un lugar a otro, a través de un medio.
+            p En primer lugar, se tienen los aparatos informáticos, cuya función es la de recibir, emitir, almacenar, procesar y transmitir la información de un usuario o empresa (Cesuma, 2022). El segundo grupo, son los equipos destinados a las telecomunicaciones, los cuales cumplen con el rol específico de transmitir la información de un lugar a otro, a través de un medio.
 
-            p.text-small Ambos grupos, por lo general, trabajan juntos, dada su importancia en el tratamiento de la información, tanto personal como empresarial. Además, la necesidad de solucionar problemas con rapidez y enlazar fuentes distantes de manera óptima, los vuelve indispensables en las organizaciones.
+            p Ambos grupos, por lo general, trabajan juntos, dada su importancia en el tratamiento de la información, tanto personal como empresarial. Además, la necesidad de solucionar problemas con rapidez y enlazar fuentes distantes de manera óptima, los vuelve indispensables en las organizaciones.
             
           .col-md-4
             figure
@@ -59,9 +59,9 @@
         .row.justify-content-between.align-items-center
           .col-md-7.mb-4.mb-md-0.ms-5
             h4 Consumo
-            p.text-small Son equipos electrónicos destinados a uso cotidiano, se diferencian de los electrodomésticos en que, los de consumo, ayudan a automatizar procesos y no están hechos, solamente, para que un usuario los compre y/o use durante las actividades diarias. 
+            p Son equipos electrónicos destinados a uso cotidiano, se diferencian de los electrodomésticos en que, los de consumo, ayudan a automatizar procesos y no están hechos, solamente, para que un usuario los compre y/o use durante las actividades diarias. 
 
-            p.text-small En vista de la dependencia de tecnología que tienen los seres humanos, en la actualidad, hay todo tipo de equipos electrónicos catalogados como de consumo como, por ejemplo, celulares, relojes inteligentes, dispositivos de vigilancia y seguimiento, aparatos automatizados para oficinas y hogar, cámaras, amplificadores, micrófonos, etc.
+            p En vista de la dependencia de tecnología que tienen los seres humanos, en la actualidad, hay todo tipo de equipos electrónicos catalogados como de consumo como, por ejemplo, celulares, relojes inteligentes, dispositivos de vigilancia y seguimiento, aparatos automatizados para oficinas y hogar, cámaras, amplificadores, micrófonos, etc.
 
           .col-md-4
             figure
@@ -69,7 +69,7 @@
         .row.justify-content-between.align-items-center
           .col-md-7.mb-4.mb-md-0.ms-5
             h4 Iluminación
-            p.text-small En este grupo de dispositivos electrónicos, se encuentran todos aquellos elementos que convierten la energía eléctrica en energía luminosa y la controlan. Estos aparatos resultan de suma importancia debido a que la mayor parte de la información que es percibida por el ser humano, se hace por medio del sentido de la vista. Debido a su importancia, en la percepción humana, este tipo de elementos son habituales en muchos entornos como, por ejemplo, tipos de luces, bombillas inteligentes, reproductores de video, pantallas de señalización o información, etc.
+            p En este grupo de dispositivos electrónicos, se encuentran todos aquellos elementos que convierten la energía eléctrica en energía luminosa y la controlan. Estos aparatos resultan de suma importancia debido a que la mayor parte de la información que es percibida por el ser humano, se hace por medio del sentido de la vista. Debido a su importancia, en la percepción humana, este tipo de elementos son habituales en muchos entornos como, por ejemplo, tipos de luces, bombillas inteligentes, reproductores de video, pantallas de señalización o información, etc.
 
           .col-md-4
             figure
@@ -77,9 +77,9 @@
         .row.justify-content-between.align-items-center
           .col-md-7.mb-4.mb-md-0.ms-5
             h4 Herramientas
-            p.text-small Ayudan en tareas que requieren gran desgaste físico, precisión o monitoreo de variables físicas. Resultan de gran importancia debido a su uso en el proceso de las pruebas a las variables físicas asociadas a los aparatos, es decir, a la medición de variables. Por tal razón, se debe aprender a identificar el tipo de instrumento que mejor se comporte en el entorno a trabajar, o los disponibles en el sitio, de acuerdo con la forma en la que se presentan y se miden los resultados que se tienen.
+            p Ayudan en tareas que requieren gran desgaste físico, precisión o monitoreo de variables físicas. Resultan de gran importancia debido a su uso en el proceso de las pruebas a las variables físicas asociadas a los aparatos, es decir, a la medición de variables. Por tal razón, se debe aprender a identificar el tipo de instrumento que mejor se comporte en el entorno a trabajar, o los disponibles en el sitio, de acuerdo con la forma en la que se presentan y se miden los resultados que se tienen.
 
-            p.text-small Tales herramientas pueden ser analógicas o digitales: voltímetros, conversores, velocímetros, etc.
+            p Tales herramientas pueden ser analógicas o digitales: voltímetros, conversores, velocímetros, etc.
           
           .col-md-4
             figure
@@ -89,9 +89,9 @@
           .col-md-7.mb-4.mb-md-0.ms-5
             ul.lista-ul--color
               li
-                i.fas.fa-circle.text-small.cab
+                i.fas.fa-circle.cab
                 p.mb-0: b Instrumentos de medición analógicos 
-            p.text-small Los instrumentos de medición analógicos se caracterizan por presentar los resultados de la variable física, medida mediante una aguja móvil que se desplaza a lo largo de una escala graduada. Lo anterior, se debe a los cambios de corriente provocados por la variable a medir que circulan por una bobina centrada en un campo magnético y, gracias a la interacción entre el campo magnético variable de la bobina y el campo magnético fijo producido por un imán se genera el desplazamiento de la aguja. Este tipo de instrumentos son los más habituales dentro de un entorno laboral, aunque en la actualidad la presencia de los dispositivos digitales ha comenzado a desplazar la utilización de este tipo de herramientas. El principal problema en el uso de estos aparatos electrónicos es la baja precisión y la dificultad de leer de manera correcta los resultados proporcionados por el equipo. (Miguel, A. P. S. 2016)
+            p Los instrumentos de medición analógicos se caracterizan por presentar los resultados de la variable física, medida mediante una aguja móvil que se desplaza a lo largo de una escala graduada. Lo anterior, se debe a los cambios de corriente provocados por la variable a medir que circulan por una bobina centrada en un campo magnético y, gracias a la interacción entre el campo magnético variable de la bobina y el campo magnético fijo producido por un imán se genera el desplazamiento de la aguja. Este tipo de instrumentos son los más habituales dentro de un entorno laboral, aunque en la actualidad la presencia de los dispositivos digitales ha comenzado a desplazar la utilización de este tipo de herramientas. El principal problema en el uso de estos aparatos electrónicos es la baja precisión y la dificultad de leer de manera correcta los resultados proporcionados por el equipo. (Miguel, A. P. S. 2016)
 
           .col-md-4
             figure
@@ -100,9 +100,9 @@
           .col-md-7.mb-4.mb-md-0.ms-5
             ul.lista-ul--color
               li
-                i.fas.fa-circle.text-small.cab
+                i.fas.fa-circle.cab
                 p.mb-0: b Instrumentos de medición digitales 
-            p.text-small A diferencia de los anteriores, los instrumentos de medición digitales no emplean ningún tipo de componente mecánico para la obtención de la medida. En su defecto, este tipo de herramientas emplean una serie de complejos circuitos electrónicos integrados que permiten el uso de pantallas o display para la visualización de los resultados, lo que facilita la lectura de estos haciendo que su aplicación dentro de los procesos de diagnóstico y mantenimiento sean más frecuentes, adicionalmente, permiten la recolección de datos de manera más rápida y efectiva. Por último, al no emplear partes mecánicas estos dispositivos son más robustos y fuertes que su contraparte analógica. (Miguel, A. P. S. 2016)
+            p A diferencia de los anteriores, los instrumentos de medición digitales no emplean ningún tipo de componente mecánico para la obtención de la medida. En su defecto, este tipo de herramientas emplean una serie de complejos circuitos electrónicos integrados que permiten el uso de pantallas o display para la visualización de los resultados, lo que facilita la lectura de estos haciendo que su aplicación dentro de los procesos de diagnóstico y mantenimiento sean más frecuentes, adicionalmente, permiten la recolección de datos de manera más rápida y efectiva. Por último, al no emplear partes mecánicas estos dispositivos son más robustos y fuertes que su contraparte analógica. (Miguel, A. P. S. 2016)
 
           .col-md-4
             figure
@@ -110,14 +110,14 @@
         .row.justify-content-between.align-items-center
           .col-md-7.mb-4.mb-md-0.ms-5
             h4 Médicos
-            p.text-small Estos dispositivos se caracterizan por tener una alta precisión y seguridad; dentro de este tipo de equipos se pueden encontrar herramientas, elementos electromecánicos y maquinarias destinadas al monitoreo de variables fisiológicas. Estos equipos se agrupan o se clasifican según el riesgo que representen para el paciente. A pesar de que estos dispositivos electrónicos no son los más comunes de observar se debe tener mucho cuidado a la hora de realizar o agendar cualquier tipo de procedimiento, esto pues, conserva la integridad, confianza, fidelidad y precisión con la cual fue diseñado es crucial, esto recordando que en muchas ocasiones la vida de los pacientes depende de la lectura, procesamiento y visualización de los resultados presentados por el equipo.
+            p Estos dispositivos se caracterizan por tener una alta precisión y seguridad; dentro de este tipo de equipos se pueden encontrar herramientas, elementos electromecánicos y maquinarias destinadas al monitoreo de variables fisiológicas. Estos equipos se agrupan o se clasifican según el riesgo que representen para el paciente. A pesar de que estos dispositivos electrónicos no son los más comunes de observar se debe tener mucho cuidado a la hora de realizar o agendar cualquier tipo de procedimiento, esto pues, conserva la integridad, confianza, fidelidad y precisión con la cual fue diseñado es crucial, esto recordando que en muchas ocasiones la vida de los pacientes depende de la lectura, procesamiento y visualización de los resultados presentados por el equipo.
           .col-md-4
             figure
               img(src='@/assets/curso/temas/t1/f10.png', alt='imagen relacionada')
         .row.justify-content-between.align-items-center
           .col-md-7.mb-4.mb-md-0.ms-5
             h4 Juguetería
-            p.text-small Por último, pese a que se pueden interpretar como elementos de consumo se tiene los juguetes, estos equipos son todos aquellos dispositivos electrónicos destinados al fortalecimiento del desarrollo, habilidades o recreación. A diferencia de lo que se suele pensar cuando se escucha la categoría juguetería, estos aparatos electrónicos favorecen el desarrollo de habilidades cognitivas como la memoria, la percepción, concentración, etc. También promueven el desarrollo de habilidades físicas como la coordinación, equilibrio y las habilidades motoras necesarias para que un infante comience a caminar o gatear. (La Importancia del juego y los juguetes | CAIJ - Cámara argentina de la industria del juguete, s. f.)
+            p Por último, pese a que se pueden interpretar como elementos de consumo se tiene los juguetes, estos equipos son todos aquellos dispositivos electrónicos destinados al fortalecimiento del desarrollo, habilidades o recreación. A diferencia de lo que se suele pensar cuando se escucha la categoría juguetería, estos aparatos electrónicos favorecen el desarrollo de habilidades cognitivas como la memoria, la percepción, concentración, etc. También promueven el desarrollo de habilidades físicas como la coordinación, equilibrio y las habilidades motoras necesarias para que un infante comience a caminar o gatear. (La Importancia del juego y los juguetes | CAIJ - Cámara argentina de la industria del juguete, s. f.)
           .col-md-4
             figure
               img(src='@/assets/curso/temas/t1/f11.png', alt='imagen relacionada')
