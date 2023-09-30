@@ -168,7 +168,7 @@
       h3 Interpretación
 
     p Como en cualquier proceso, la interpretación de resultados es fundamental para determinar las causas, elaborar un diagnóstico y realizar el procedimiento adecuado. 
-    p A continuación, se presentan la importancia de la interpretación de resultados en equipos electrónicos.  
+    p A continuación, se presenta la importancia de la interpretación de resultados en equipos electrónicos.  
 
     .row.justify-content-center.mb-5
       .col-md-4(data-aos="fade-left")
